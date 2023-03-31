@@ -3,16 +3,16 @@ import pandas as pd
 import os
 
 '''
-Count	
-Tradelist Count	
+Count -> 1 -> quantas cartas dessa vc tem?
+Tradelist Count	-> 1
 Name	
-Edition	
+Edition	-> Sigla
 Condition -> por extenso: "Near Mint"
-Language
+Language -> English, Portuguese
 Foil -> "foil" ou "etched"
 Tags -> empty
 Last Modified -> "2023-03-30 03:03:46.243000"
-Collector Number	
+Collector Number -> id da carta, integer
 Alter -> "FALSE"	
 Proxy -> "FALSE"	
 Purchase Price -> empty
