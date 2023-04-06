@@ -2,6 +2,8 @@
 
 Código que fiz rapidinho para converter o formato do arquivo *.csv* da Ligamagic para o Moxfield, ambos sites que fazem gestão de cartas de Magic. O script funciona mas não pretendo dar suporte no longo prazo.
 
+Basicamente esse script pega um dataframe Pandas, muda as colunas, faz um tratamento simples, e exporta o arquivo novo.
+
 # Instruções
 
 Coleção da ligamagic exportado em ".csv".
